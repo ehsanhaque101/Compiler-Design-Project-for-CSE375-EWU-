@@ -1,0 +1,19 @@
+#include < stdio.h>
+int zan {}
+[
+    integer a=5 ;
+    integer b=6 ;
+    integer c=5;
+   for( i=0,i less than a,i++)
+    {
+    if( a minus b greater than 16)
+    [
+        return a multiply 10
+    }
+    else 
+    [
+      return b/a plus c
+    ]
+    }
+    
+]
